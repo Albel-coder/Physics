@@ -1,0 +1,1 @@
+C++ program for generating physics problems with automatic checking of user answers. Supports various topics: mechanics, thermodynamics, electrodynamics, etc. Allows you to choose the level of difficulty and provides detailed solutions.
